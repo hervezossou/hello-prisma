@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prisma Postgres Example: Queries, Connection Pooling & Caching
 
 This project contains a sample application demonstrating various capabilities and workflows of [Prisma Postgres](https://prisma.io/data-platform/postgres):
@@ -136,3 +137,6 @@ The query took 300.5655280000001ms.
 - Check out the [Prisma docs](https://www.prisma.io/docs)
 - Share your feedback on the [Prisma Discord](https://pris.ly/discord/)
 - Create issues and ask questions on [GitHub](https://github.com/prisma/prisma/)
+=======
+# hello-prisma
+>>>>>>> a59ff98bb5e0ba7759f512a73135d9b2c69267b4
